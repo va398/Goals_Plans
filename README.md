@@ -8,11 +8,11 @@
 # Goals & Plans Team - Independent Living Assistance App
 
 ## Team Roster
-- [Your Name] - Product Manager
-- [Team Member 2 Name] - Developer
-- [Team Member 3 Name] - UX/UI Designer
-- [Team Member 4 Name] - Marketing Specialist
-- [Team Member 5 Name] - QA Tester
+- Anusha Appikatla - Product Manager
+- Vedant Rakesh Abrol - Developer
+- Rinkal Shah - UX/UI Designer
+- Ravi Teja - Marketing Specialist
+- Bhanu Sai Nikhil - QA Tester
 
 ## Vision
 Our far vision is to empower individuals facing various challenges in achieving independent living by providing a platform that connects them with dedicated helpers who can assist with their specific needs, whether it's transportation, financial difficulties, or other daily life challenges. We aim to create a supportive community that fosters independence and inclusivity.
