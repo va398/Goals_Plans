@@ -13,20 +13,24 @@
 - Rinkal Shah - UX/UI Designer
 - Ravi Teja - Marketing Specialist
 - Bhanu Sai Nikhil - QA Tester
-  **Rating:** 5
+  
+**Rating:** 5
 
 ## Vision
 Our far vision is to empower individuals facing various challenges in achieving independent living by providing a platform that connects them with dedicated helpers who can assist with their specific needs, whether it's transportation, financial difficulties, or other daily life challenges. We aim to create a supportive community that fosters independence and inclusivity.
+
 **Rating:** 5
 
 ## Near Vision (First Iteration)
 In our first iteration, we plan to develop a Minimum Viable Product (MVP) that focuses on assisting people with transportation challenges. Users will be able to register their needs for transportation, and our app will match them with available helpers who can provide transportation services during their requested time slots.
+
 **Rating:** 5
 
 ## Stakeholder Types
 1. **Users with Mobility Challenges:** Individuals who cannot drive due to physical disabilities or other mobility issues.
 2. **Elderly Population:** Seniors who may require assistance with transportation or other daily activities.
 3. **Low-Income Individuals:** People facing financial difficulties who need affordable transportation solutions.
+
 **Rating:** 5
 
 ## User Persona
@@ -55,6 +59,7 @@ In our first iteration, we plan to develop a Minimum Viable Product (MVP) that f
    - **Age:** 75
    - **Background:** Elderly individual with limited mobility, living in a retirement community.
    - **Needs:** Seeks assistance with transportation to social events and doctor's appointments.
+
 **Rating:** 5
 
 
@@ -100,17 +105,20 @@ Title: Marketing Campaign for Low-Income Users
 
 10.User Story Opening Sentence: As a marketing specialist, I want to create and execute a marketing campaign targeting low-income individuals to increase awareness of our affordable transportation solutions.
 Additional Details: The campaign may include social media promotions and partnerships with local organizations.
+
 **Rating:** 5
 
 ### Example Backlog Item
 **Title:** Arrange Transportation for Sarah's Medical Appointment
-**User Story Opening Sentence:** As a user with mobility challenges like Sarah, I want to schedule a reliable transportation service to take me to my medical appointment on [date] at [time].
+**User Story Opening Sentence:** As a user with mobility challenges like Sarah, I want to schedule a reliable transportation service to take me to my medical appointment on particular date and time.
 **Additional Details:** The user should be able to specify the pick-up and drop-off locations, and the service should provide an estimated arrival time.
 **Estimated in Story Points:** 5
+
 **Rating:** 5
 
 ## Backlog Ordering Rationale
 We have ordered our backlog based on the priority of user needs and the complexity of implementing each feature. The items that address the core functionality and provide the most value to users are at the top.
+
 **Rating:** 5
 
 ## Definition of Ready (DoR)
@@ -119,10 +127,12 @@ Our Definition of Ready for product backlog items includes the following criteri
 - **User Story Opening Sentence:** A statement that describes the user's need.
 - **Additional Details:** Specific requirements and acceptance criteria.
 - **Estimated in Story Points:** An estimation of the level of effort required.
+
 **Rating:** 5
 
 ## Relative Size Estimating Activity
 We conducted a whole team relative size estimating activity using Planning Poker to assign story points to backlog items. This ensures that everyone on the team has a shared understanding of the complexity of each item.
+
 **Rating:** 5
 
 ---
