@@ -1,9 +1,3 @@
-# Goals_Plans
- Vedant Abrol
- Ravi Teja
- Anusha Appikatla
- Rinkal Shah
- Bhanu Sai Nikhil
 
 # Goals & Plans Team - Independent Living Assistance App
 
@@ -14,24 +8,24 @@
 - Ravi Teja - Marketing Specialist
 - Bhanu Sai Nikhil - QA Tester
   
-**Rating:** 5
+**Rating:** 3
 
 ## Vision
 Our far vision is to empower individuals facing various challenges in achieving independent living by providing a platform that connects them with dedicated helpers who can assist with their specific needs, whether it's transportation, financial difficulties, or other daily life challenges. We aim to create a supportive community that fosters independence and inclusivity.
 
-**Rating:** 5
+**Rating:** 2
 
 ## Near Vision (First Iteration)
 In our first iteration, we plan to develop a Minimum Viable Product (MVP) that focuses on assisting people with transportation challenges. Users will be able to register their needs for transportation, and our app will match them with available helpers who can provide transportation services during their requested time slots.
 
-**Rating:** 5
+**Rating:** 2
 
 ## Stakeholder Types
 1. **Users with Mobility Challenges:** Individuals who cannot drive due to physical disabilities or other mobility issues.
 2. **Elderly Population:** Seniors who may require assistance with transportation or other daily activities.
 3. **Low-Income Individuals:** People facing financial difficulties who need affordable transportation solutions.
 
-**Rating:** 5
+**Rating:** 4
 
 ## User Persona
 1. **Sarah**
@@ -59,15 +53,12 @@ In our first iteration, we plan to develop a Minimum Viable Product (MVP) that f
    - **Background:** Elderly individual with limited mobility, living in a retirement community.
    - **Needs:** Seeks assistance with transportation to social events and doctor's appointments.
 
-**Rating:** 5
-
+**Rating:** 3
 
 ## Product Backlog
-Our product backlog is managed using Pivotal Tracker. You can view it [here](Pivotal Tracker URL). The backlog includes at least 10 product backlog items, all expressed as excellent user stories.
+Our product backlog is managed using Pivotal Tracker. You can view it URL:- https://www.pivotaltracker.com/n/projects/2678665 (Pivotal Tracker URL). The backlog includes at least 10 product backlog items, all expressed as excellent user stories.
 
 Title: Schedule Transportation for Medical Appointments
-
-URL:- https://www.pivotaltracker.com/n/projects/2678665
 
 1.User Story Opening Sentence: As a user with mobility challenges, I want to schedule reliable transportation for my medical appointments on specific dates and times.
 Additional Details: Users should be able to provide appointment details, pick-up, and drop-off locations.
@@ -108,7 +99,7 @@ Title: Marketing Campaign for Low-Income Users
 10.User Story Opening Sentence: As a marketing specialist, I want to create and execute a marketing campaign targeting low-income individuals to increase awareness of our affordable transportation solutions.
 Additional Details: The campaign may include social media promotions and partnerships with local organizations.
 
-**Rating:** 5
+**Rating:** 3
 
 ### Example Backlog Item
 **Title:** Arrange Transportation for Sarah's Medical Appointment
@@ -116,12 +107,12 @@ Additional Details: The campaign may include social media promotions and partner
 **Additional Details:** The user should be able to specify the pick-up and drop-off locations, and the service should provide an estimated arrival time.
 **Estimated in Story Points:** 5
 
-**Rating:** 5
+**Rating:** 3
 
 ## Backlog Ordering Rationale
 We have ordered our backlog based on the priority of user needs and the complexity of implementing each feature. The items that address the core functionality and provide the most value to users are at the top.
 
-**Rating:** 5
+**Rating:** 3
 
 ## Definition of Ready (DoR)
 Our Definition of Ready for product backlog items includes the following criteria:
@@ -130,11 +121,10 @@ Our Definition of Ready for product backlog items includes the following criteri
 - **Additional Details:** Specific requirements and acceptance criteria.
 - **Estimated in Story Points:** An estimation of the level of effort required.
 
-**Rating:** 5
+**Rating:** 3
 
 ## Relative Size Estimating Activity
 We conducted a whole team relative size estimating activity using Planning Poker to assign story points to backlog items. This ensures that everyone on the team has a shared understanding of the complexity of each item.
 
-**Rating:** 5
 
 ---
