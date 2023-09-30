@@ -56,7 +56,7 @@ In our first iteration, we plan to develop a Minimum Viable Product (MVP) that f
 **Rating:** 3
 
 ## Product Backlog
-Our product backlog is managed using Pivotal Tracker. You can view it URL:- https://www.pivotaltracker.com/n/projects/2678665 (Pivotal Tracker URL). The backlog includes at least 10 product backlog items, all expressed as excellent user stories.
+Our product backlog is managed using Pivotal Tracker. You can view it URL:- https://www.pivotaltracker.com/n/projects/2678665 (Pivotal Tracker URL). The backlog includes 10 product backlog items, all expressed as excellent user stories.
 
 Title: Schedule Transportation for Medical Appointments
 
